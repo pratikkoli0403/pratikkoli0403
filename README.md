@@ -64,7 +64,7 @@ I actively maintain smaller repositories to strengthen fundamentals in:
 ---
 
 ⭐ *Currently preparing for DevOps Internship roles and building production-ready projects*
-## Hi there 👋
+
 
 <!--
 **pratikkoli0403/pratikkoli0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
